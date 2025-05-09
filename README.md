@@ -6,7 +6,7 @@ Project Overview
 Backend: Springboot, MyBatis-Plus, Java
 Frontend: Node.js, Vue CLI, Element-UI
 Database: MySQL
-Thank you to the content creator for their hard work! Please give a thumbs up and share if you find it helpful!
+
 I. Creating the Backend Project
 Create a folder.
 Open the folder in IntelliJ IDEA.
@@ -15,6 +15,7 @@ Create a test class and run tests.
 II. Adding MyBatis-Plus Support
 Add dependency code.
 Create a database instance, create a user table, and insert default data.
+
 xml
 Copy
 <dependency>
